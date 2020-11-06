@@ -19,5 +19,3 @@ function [Total] = Change(quarters,dimes,nickles,pennies)
 end
 
 
-%%%HA = '$" + num2str(....)
-%%%%streat("$",num2str(.....)
